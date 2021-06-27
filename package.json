@@ -1,0 +1,19 @@
+{
+  "name": "parallel",
+  "version": "1.0.0",
+  "description": "The appstack/parallel Submodule.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appstackjs/parallel.git"
+  },
+  "author": "Adrian Gjerstad",
+  "license": "BSL-1.0",
+  "bugs": {
+    "url": "https://github.com/appstackjs/parallel/issues"
+  },
+  "homepage": "https://github.com/appstackjs/parallel#readme"
+}
